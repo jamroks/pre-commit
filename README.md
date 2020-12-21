@@ -116,5 +116,3 @@ repos:
 ## License
 
 This code is released under the Apache 2.0 License. Please see [LICENSE](LICENSE) and [NOTICE](NOTICE) for more details.
-
-Copyright &copy; 2019 Gruntwork, Inc.
